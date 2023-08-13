@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋,I am Temidire Dimowo</h1>
+<h1 align="center">Hello 👋, I am Temidire Dimowo</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img href="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
 
