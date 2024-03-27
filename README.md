@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://verdant-beignet-8d26fe.netlify.app/](https://verdant-beignet-8d26fe.netlify.app/)
 
-- 💬 Ask me about **JavaScript, Java**
+- 💬 Ask me about **Python, JavaScript, Java**
 
 - 📫 How to reach me **dimowotemidire@gmail.com**
 
